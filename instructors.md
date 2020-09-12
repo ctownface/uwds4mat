@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Instuctors and TAs"
+title: Instuctors and TAs
 permalink: /instructors/
 ---
 
