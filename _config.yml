@@ -3,6 +3,7 @@ title: UW MSE Data Science Classes
 author:
   name: Ting Cao
   email: tingcao@uw.edu
+  
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
