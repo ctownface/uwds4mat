@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: default
+layout: home
 ---
 
 **Welcome to the website of the UW MSE data science classes**
