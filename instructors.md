@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Instuctors and TAs
 permalink: /instructors/
 ---
