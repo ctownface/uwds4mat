@@ -11,7 +11,7 @@ permalink: /instructors/
 
 ## Teaching Assistants ##
 
-* Jimin Qian (jiminq@uw.edu)
-* Kaichen Xie (kcxie@uw.edu)
-* Gillian Shen ()
 * Alexis W. Mills (awoodwa@uw.edu)
+* Jimin Qian (jiminq@uw.edu)
+* Gillian Shen ()
+* Kaichen Xie (kcxie@uw.edu)
