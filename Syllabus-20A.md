@@ -4,9 +4,7 @@ title: Syllabus
 permalink: /syllabus/
 ---
 
-## Syllabus (MSE 477, MSE 542, CHEM 441, CHEM 541)
-
-# Time 
+# Time (MSE 477, MSE 542, CHEM 441, CHEM 541)
 Classes will be hosted on Zoom (link: ) from 1:30 pm - 2:20 pm on Monday, Wednesday, and Friday unless otherwise noted.
 
 # Week 1
