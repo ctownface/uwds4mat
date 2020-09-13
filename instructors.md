@@ -6,7 +6,7 @@ permalink: /instructors/
 
 # Faculty Instuctors
 
-* Ting Cao (tingcao@uw.edu)
+* [Ting Cao](http://faculty.washington.edu/tingcao/) (tingcao@uw.edu)
 * Luna Huang (huangyue@uw.edu)
 
 # Teaching Assistants
@@ -18,4 +18,4 @@ permalink: /instructors/
 
 # Office Hours
 
-Please sign up for the Zoom office hours using the shared Google spreadsheet (link:). Each time slot will have 15 mins. Additional office hours will be arranged upon email request.
+Please sign up for the **Zoom** office hours using the shared Google spreadsheet (link:). Each time slot will be 15 mins. Additional office hours will be arranged upon email request.
