@@ -13,7 +13,7 @@ permalink: /instructors/
 
 * Alexis W. Mills (awoodwa@uw.edu)
 * Jimin Qian (jiminq@uw.edu)
-* Gillian Shen ()
+* Gillian Shen (gillians@uw.edu)
 * Kaichen Xie (kcxie@uw.edu)
 
 # Office Hours
